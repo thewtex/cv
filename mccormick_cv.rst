@@ -8,7 +8,7 @@ Wisconsin Institutes for Medical Research
 Room 1005
 Madison, WI 53705 USA
 Voice: (763) 670-6479
-E-mail: mmmccormick@wisc.edu
+E-mail: matt@mmmccormick.com
 WWW: http://mmmccormick.com
 
 
@@ -28,7 +28,7 @@ University of Wisconsin-Madison
 - Ph.D. Dissertator, Biomedical Engineering, January 2009
   • Dissertation Topic: “Carotid Plaque Characterization with Medical Ultrasound”
   • GPA: 3.70/4.0
-  • Anticipated graduation: December 2010.
+  • Anticipated graduation: April 2011.
 - M.S. in Biomedical Engineering, May 2008
 
 Marquette University, Milwaukee, Wisconsin USA
@@ -61,61 +61,81 @@ Work Experience
 University of Wisconsin-Madison, USA
 ------------------------------------
 
-Research Assistant June 2005 - Present Research diagnostic medical ultrasound
-stiﬀness imaging methods for non-invasive assessment of the carotid artery.
+*Research Assistant* June 2005 - Present
 
-Teaching Assistant January 2009 - May 2009 Prepared, taught, and graded
-laboratories for the Diagnostic Ultrasound Physics course.
+  Research diagnostic medical ultrasound stiffness imaging methods for
+  non-invasive assessment of the carotid artery.
+
+*Teaching Assistant* January 2009 - May 2009
+
+  Prepared, taught, and graded laboratories for the Diagnostic Ultrasound
+  Physics course.
 
 
 Neuromotor Control Laboratory Marquette University, Milwaukee, WI USA
 ---------------------------------------------------------------------
 
-Research Assistant May 2004 - May 2005 Electronic/mechanical hardware
-development for MRI compatible wrist robot, data processing and analysis for
-understanding of nervous system use of sensory information, adaptation, and
-control of the skeletal muscle system.
+*Research Assistant* May 2004 - May 2005
+
+  Electronic/mechanical hardware development for MRI compatible wrist robot,
+  data processing and analysis for understanding of nervous system use of
+  sensory information, adaptation, and control of the skeletal muscle system.
 
 
-Boston Scientiﬁc Corporation Maple Grove, MN USA
+Boston Scientiﬁc Corporation, Maple Grove, MN USA
 --------------------------------------------------
 
-Research and Design Intern June 2003 - August 2003 Research and development on
-peripheral vascular self-expanding Nitinol stents.
+*Research and Design Intern* June 2003 - August 2003
+
+  Research and development on peripheral vascular self-expanding Nitinol stents.
 
 
 Educational Opportunity Program Marquette University, Milwaukee, WI USA
 -----------------------------------------------------------------------
 
-Tutor August 2002 - May 2005 Tutor college students in courses such as biology,
-chemistry, and calculus.
+*Tutor* August 2002 - May 2005
+
+  Tutor college students in courses such as biology, chemistry, and calculus.
 
 
 Minnesota Association for Human Genetics University of Minnesota, Minneapolis, MN USA
 -------------------------------------------------------------------------------------
 
-Research Intern May 2000 - June 2000 Perform genetic sequence analysis on the
-tyrosinase gene of individuals with albinism to probe for mutations.
+*Research Intern* May 2000 - June 2000
+
+  Perform genetic sequence analysis on the tyrosinase gene of individuals with
+  albinism to probe for mutations.
 
 
 Publications and Manuscripts
 ============================
 
-McCormick, M and Varghese, T. An Approach to Unbiased Subsample Interpolation
-For Motion Tracking. IEEE Ultrasonics, Ferroelectrics, and Frequency
-Control. In preparation.
+McCormick, M and Varghese, T.  An Approach to Unbiased Subsample Interpolation
+For Motion Tracking.  Ultrasonics.  In Review. 2011.
 
-McCormick, M; Madsen, E; Deaner, M; Varghese, T. Absolute Backscatter
-Measurement of a TissueMimicking Phantom Centered at 25 MHz. Journal of the
-Acoustical Society of America. In preparation.
+McCormick, M, Madsen, E; Deaner, M; Varghese, T.  Absolute Backscatter
+Measurement of Tissue-Mimicking Phantoms in the 5-45 MHz Frequency Range.
+Journal of the Acoustical Society of America.  In Review.  2011.
 
-McCormick, M; Rubert, N and Varghese, T. Bayesian Regularization Applied to
-Ultrasound Strain Imaging. IEEE Transactions in Biomedical Engineering.
-Submitted. 2010.
+McCormick, M, Rubert, N and Varghese, T.  Bayesian Regularization Applied to
+Ultrasound Strain Imaging.  IEEE Transactions on Biomedical Engineering.
+In Press.  2011.
 
-Madsen, E; Frank, G; McCormick, M; Deaner, M. Anechoic Sphere Phantoms for
-Estimating 3-D Resolution of Very High Frequency Ultrasound Scanners.  IEEE
-Ultrasonics, Ferroelectrics, and Frequency Control. In Press.
+Perrot-Audet, A, McCormick, M, Gelas, A, Rannou, N, Souhait, L, Mosaliganti, K,
+and Megason, S.  A Lightweight Image Comparison Library.  Kitware's The Source.
+Issue 16, January 2011.
+URL: http://www.kitware.com/products/html/ALightweightImageComparisonLibrary.html.
+
+McCormick, M.  Ultrasound and ITKv4.  Kitware's The Source.  Issue 16, January
+2011.  URL: http://www.kitware.com/products/html/UltrasoundAndITKv4.html.
+
+Madsen, E; Frank, G; McCormick, M; Deaner, M.  Anechoic Sphere Phantoms for
+Estimating 3-D Resolution of Very High Frequency Ultrasound Scanners.
+IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. 57
+(10):2284-2292. 2010.
+
+McCormick, M.  Higher Order Accurate Derivative and Gradient Calculation in ITK.
+Insight Journal.  2010 July-December.  URL: http://hdl.handle.net/10380/3231.
 
 McCormick, M. Visual Debugging of ITK. Kitware’s The Source. Issue 13, April
 2010.
@@ -147,9 +167,9 @@ Windowed-Sinc Reconstruction with Numerical Optimization. International
 Conference on the Ultrasonic Measurement and Imaging of Tissue Elasticity. Oct
 16, 2010. Snowbird, Utah.
 
-McCormick, M and Varghese, T. Open Technologies Applied to a Non-stand Medical
-Image Format for Innovative Research. MathBio2: IMAGE. November 2009. Madison,
-WI.
+McCormick, M and Varghese, T. Open Technologies Applied to a Non-standard
+Medical Image Format for Innovative Research. MathBio2: IMAGE. November 2009.
+Madison, WI.
 
 McCormick, M; Varghese, T; Dempsey, RJ; Zagzebski, J; Madsen, E. High Frequency
 Ultrasonic Characterization of Excised Atherosclerotic Carotid Plaque.
@@ -181,6 +201,7 @@ Patches submitted and accepted to:
 • Gentoo. Linux distribution. http://www.gentoo.org/
 • InsightToolkit. Insight Segmentation and Registration Toolkit. http://itk.org/
 • Pyclewn. Pyclewn allows using vim as a front end to a debugger. http://pyclewn.sourceforge.net/
+• QGoImageCompare.  QGoImageCompare is a library aimed at simple comparison of images.  https://github.com/gofigure2/QGoImageCompare/
 • usimagtool. Medical ultrasound image processing tool. http://www.lpi.tel.uva.es/usimag/en/ContenidoEn.php?IdContenido=6/
 • veusz. Veusz is a scientiﬁc plotting and graphing package written in Python. http://home.gna.org/veusz/
 • vistrails. VisTrails is an open-source scientiﬁc workﬂow and provenance management system that provides support for data exploration and visualization. http://vistrails.org/
@@ -189,10 +210,16 @@ Patches submitted and accepted to:
 Awards and Activities
 =====================
 
+InSCIght.  The Scientific Computing Podcast.  
+• Moderator/Panelist.
+• http://insight.org/
+
 IEEE Student Member.
 
 UW-Madison The Hacker Within. A peer-teaching group whose purpose is to provide
-non-computer scientists the practical skills required to perform research.
+non-computer scientists with the practical skills required to perform research.
+• Organizing member of the 2011 Software Carpentry Bootcamp.
+• Arranged university-sponsored guest lecture of Dr. John D. Hunter from Chicago.
 • Organizing member of the 2010 Python Bootcamp.
 • Presentations on CMake and creating custom pretty-printers in GDB.
 • Representation at PyCon 2010.
