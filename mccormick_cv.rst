@@ -192,7 +192,7 @@ Computer Skills
 • Languages: C++, Python, Matlab, and Bash.
 • Operating Systems: Linux, Windows.
 
-Patches submitted and accepted to:
+Patches submitted to and accepted at:
 • Awesome Window Manager http://awesome.naquadah.org/
 • Bioimage Suite. Medical image processing and visualization. http://www.bioimagesuite.org/
 • cgit. A fast web-interface for git repositories. http://hjemli.net/git/cgit/about/
