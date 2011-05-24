@@ -25,11 +25,10 @@ Education
 University of Wisconsin-Madison
 -------------------------------
 
-- Ph.D. Dissertator, Biomedical Engineering, January 2009
+- Ph.D., Biomedical Engineering, May 2011
   • Dissertation Topic: “Carotid Plaque Characterization with Medical Ultrasound”
   • GPA: 3.70/4.0
-  • Anticipated graduation: April 2011.
-- M.S. in Biomedical Engineering, May 2008
+- M.S., Biomedical Engineering, May 2008
 
 Marquette University, Milwaukee, Wisconsin USA
 ----------------------------------------------
