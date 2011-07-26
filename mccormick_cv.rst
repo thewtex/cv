@@ -3,10 +3,10 @@ Matthew M. McCormick
 Contact Information
 ===================
 
-Wisconsin Institutes for Medical Research
-1111 Highland Avenue
-Room 1005
-Madison, WI 53705 USA
+Kitware, Inc.
+Attn: Matt McCormick
+28 Corporate Drive
+Clifton Park, NY 12065 USA
 Voice: (763) 670-6479
 E-mail: matt@mmmccormick.com
 WWW: http://mmmccormick.com
@@ -60,7 +60,11 @@ Work Experience
 University of Wisconsin-Madison, USA
 ------------------------------------
 
-*Research Assistant* June 2005 - Present
+*R&D Engineer*       June 2011 - Present
+
+  Medical imaging software development with the InsightToolkit.
+
+*Research Assistant* June 2005 - June 2011
 
   Research diagnostic medical ultrasound stiffness imaging methods for
   non-invasive assessment of the carotid artery.
