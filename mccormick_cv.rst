@@ -113,9 +113,13 @@ Minnesota Association for Human Genetics University of Minnesota, Minneapolis, M
 Publications and Manuscripts
 ============================
 
+McCormick, M, Varghese, T, Wang, X, Mitchell, C, Kliewer, MA, Dempsey, RJ.
+Methods for robust in vivo strain estimation in the carotid artery.
+Physics in Medicine and Biology. 57 (2012) 7329-7353.
+
 McCormick, M, Madsen, E; Deaner, M; Varghese, T.  Absolute Backscatter
-Measurement of Tissue-Mimicking Phantoms in the 5-50 MHz Frequency Range.
-Journal of the Acoustical Society of America.  In Press.  2011.
+5-50 MHz frequency range.
+Journal of the Acoustical Society of America.  130(2):737-43. 2011.
 
 McCormick, M, Rubert, N and Varghese, T.  Bayesian Regularization Applied to
 Ultrasound Strain Imaging.  IEEE Transactions on Biomedical Engineering.
