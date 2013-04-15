@@ -113,12 +113,21 @@ Minnesota Association for Human Genetics University of Minnesota, Minneapolis, M
 Publications and Manuscripts
 ============================
 
+McCormick, M, and Varghese, T.  An Approach to Unbiased Subsample Interpolation
+for Motion Tracking.  Ultrasonic Imaging.  35(2):76-89.  2013.
+
+Ibanez, L, Liu, X, McCormick, M.  ITK Bar Camp: Growing the ITK Community.  Kitware's
+The Source.  Issue 24, January 2013.  URL: http://www.kitware.com/source/home/post/92
+
+McCormick, M.  New Infrastructure for Easy Multi-threading in ITKv4.  Kitware's
+The Source.  Issue 24, January 2013.  URL: http://www.kitware.com/source/home/post/94.
+
 McCormick, M, Varghese, T, Wang, X, Mitchell, C, Kliewer, MA, Dempsey, RJ.
 Methods for robust in vivo strain estimation in the carotid artery.
 Physics in Medicine and Biology. 57 (2012) 7329-7353.
 
 McCormick, M, Madsen, E; Deaner, M; Varghese, T.  Absolute Backscatter
-5-50 MHz frequency range.
+of tissue-mimicking phantoms in the 5-50 MHz frequency range.
 Journal of the Acoustical Society of America.  130(2):737-43. 2011.
 
 McCormick, M, Rubert, N and Varghese, T.  Bayesian Regularization Applied to
@@ -219,6 +228,9 @@ InSCIght.  The Scientific Computing Podcast.
 • http://insight.org/
 
 IEEE Student Member.
+
+SciPy: Scientific Computing With Python International Conference.  Program
+Committee Co-chair.  2012 and 2013.
 
 UW-Madison The Hacker Within. A peer-teaching group whose purpose is to provide
 non-computer scientists with the practical skills required to perform research.
