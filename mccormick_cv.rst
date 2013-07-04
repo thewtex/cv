@@ -215,9 +215,14 @@ Patches submitted to and accepted at:
 • InsightToolkit. Insight Segmentation and Registration Toolkit. http://itk.org/
 • Pyclewn. Pyclewn allows using vim as a front end to a debugger. http://pyclewn.sourceforge.net/
 • QGoImageCompare.  QGoImageCompare is a library aimed at simple comparison of images.  https://github.com/gofigure2/QGoImageCompare/
+• scikits-image.  scikits-image is a collection of algorithms for image processing.  http://scikits-image.org/
+• TubeTK.  TubeTK is an open-source toolkit for the segmentation, registration, and analysis of tubes and surfaces in images.  http://tubetk.org/
 • usimagtool. Medical ultrasound image processing tool. http://www.lpi.tel.uva.es/usimag/en/ContenidoEn.php?IdContenido=6/
 • veusz. Veusz is a scientiﬁc plotting and graphing package written in Python. http://home.gna.org/veusz/
 • vistrails. VisTrails is an open-source scientiﬁc workﬂow and provenance management system that provides support for data exploration and visualization. http://vistrails.org/
+• VTK. The Visualization Toolkit is an open-source, freely available software system for 3D computer graphics, image processing and visualization.  http://www.vtk.org/
+• VXL.  VXL (the Vision-something-Libraries) is a collection of C++ libraries designed for computer vision research and implementation.  http://vxl.sourceforge.net/
+• XDress.  XDress is an automatic wrapper generator for C/C++ written in pure Python.  http://xdress.org/
 
 
 Awards and Activities
