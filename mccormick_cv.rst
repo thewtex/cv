@@ -5,9 +5,9 @@ Contact Information
 
 Kitware, Inc.
 Attn: Matt McCormick
-28 Corporate Drive
-Clifton Park, NY 12065 USA
-Voice: (763) 670-6479
+101 East Weaver St.
+Carrboro, NC 27510 USA
+Voice: (919) 869-8853
 E-mail: matt@mmmccormick.com
 WWW: http://mmmccormick.com
 
