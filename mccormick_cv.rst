@@ -232,10 +232,11 @@ InSCIght.  The Scientific Computing Podcast.
 • Moderator/Panelist.
 • http://insight.org/
 
-IEEE Student Member.
+IEEE Member.
 
 SciPy: Scientific Computing With Python International Conference.  Program
-Committee Co-chair.  2012 and 2013.
+Committee Co-chair. 2012 and 2013. Birds of a Feather Committee Chair, 2014.
+Vision, Visualization, and Imaging Symposium Chair, 2014.
 
 UW-Madison The Hacker Within. A peer-teaching group whose purpose is to provide
 non-computer scientists with the practical skills required to perform research.
