@@ -120,10 +120,11 @@ Intervention (MICCAI '14) 17 (3):97-104. 2014. PMID: 25320787.
 
 McCormick, M., Liu, X., Jomier, J., Marion, C. Ibanez, L. ITK: Enabling
 Reproducible Research and Open Science.  Front. Neuroinform. 8:13. 2014. doi:
-10.3389/fninf.2014.00013
+10.3389/fninf.2014.00013. PMID: 24600387. PMCID: PMC3929840.
 
 McCormick, M, and Varghese, T.  An Approach to Unbiased Subsample Interpolation
 for Motion Tracking.  Ultrasonic Imaging.  35(2):76-89.  2013.
+doi: 10.1177/0161734613476176.  PMID: 23493609. PMCID: PMC3656167
 
 Ibanez, L, Liu, X, McCormick, M.  ITK Bar Camp: Growing the ITK Community.  Kitware's
 The Source.  Issue 24, January 2013.  URL: http://www.kitware.com/source/home/post/92
@@ -134,14 +135,16 @@ The Source.  Issue 24, January 2013.  URL: http://www.kitware.com/source/home/po
 McCormick, M, Varghese, T, Wang, X, Mitchell, C, Kliewer, MA, Dempsey, RJ.
 Methods for robust in vivo strain estimation in the carotid artery.
 Physics in Medicine and Biology. 57 (2012) 7329-7353.
+doi: 10.1088/0031-9155/57/22/7329. PMID: 23079725. PMCID: PMC3740562.
 
 McCormick, M, Madsen, E; Deaner, M; Varghese, T.  Absolute Backscatter
 of tissue-mimicking phantoms in the 5-50 MHz frequency range.
 Journal of the Acoustical Society of America.  130(2):737-43. 2011.
+PMID: 21877789. PMCID: PMC3190655.
 
 McCormick, M, Rubert, N and Varghese, T.  Bayesian Regularization Applied to
 Ultrasound Strain Imaging.  IEEE Transactions on Biomedical Engineering.
-58 (6):1612-1620.  2011.
+58 (6):1612-1620.  2011. PCMCID: PMC3092822.
 
 Perrot-Audet, A, McCormick, M, Gelas, A, Rannou, N, Souhait, L, Mosaliganti, K,
 and Megason, S.  A Lightweight Image Comparison Library.  Kitware's The Source.
