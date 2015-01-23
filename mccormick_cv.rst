@@ -223,6 +223,7 @@ Patches submitted to and accepted at:
 • Gentoo. Linux distribution. http://www.gentoo.org/
 • InsightToolkit. Insight Segmentation and Registration Toolkit. http://itk.org/
 • Pyclewn. Pyclewn allows using vim as a front end to a debugger. http://pyclewn.sourceforge.net/
+• PLUS (Public software Library for UltraSound imaging research.) https://www.assembla.com/spaces/plus/wiki
 • QGoImageCompare.  QGoImageCompare is a library aimed at simple comparison of images.  https://github.com/gofigure2/QGoImageCompare/
 • scikits-image.  scikits-image is a collection of algorithms for image processing.  http://scikits-image.org/
 • TubeTK.  TubeTK is an open-source toolkit for the segmentation, registration, and analysis of tubes and surfaces in images.  http://tubetk.org/
