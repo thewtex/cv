@@ -113,6 +113,15 @@ Minnesota Association for Human Genetics University of Minnesota, Minneapolis, M
 Publications and Manuscripts
 ============================
 
+Liu, X., Niethammer, M., Kwitt, R., McCormick M. and Aylward S., “Low-Rank to the
+Rescue: Atlas-based Analyses in the Presence of Pathologies,” in Proceedings of
+the International Conference on Medical Image Computing and Computer Assisted
+Intervention (MICCAI '14) 17 (3):97-104. 2014. PMID: 25320787.
+
+McCormick, M., Liu, X., Jomier, J., Marion, C. Ibanez, L. ITK: Enabling
+Reproducible Research and Open Science.  Front. Neuroinform. 8:13. 2014. doi:
+10.3389/fninf.2014.00013
+
 McCormick, M, and Varghese, T.  An Approach to Unbiased Subsample Interpolation
 for Motion Tracking.  Ultrasonic Imaging.  35(2):76-89.  2013.
 
