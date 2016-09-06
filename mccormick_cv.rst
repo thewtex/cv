@@ -196,7 +196,7 @@ Biol. 53 (22):6377-94. 2008. PMID: 18941278
 Conference Presentations
 ========================
 
-S. R. Aylward, S. R., McCormick, M. M., Kang H. J., Razzaque, S., R. Kwitt,
+Aylward, S. R., McCormick, M. M., Kang H. J., Razzaque, S., R. Kwitt,
 R., and M. Niethammer. Ultrasound spectroscopy. 2016 IEEE International
 Symposium on Biomedical Imaging: From Nano to Macro, ISBI 2016 - Proceedings.
 Prague, Czech Republic. 1013-1016. 2016.
@@ -204,7 +204,7 @@ http://dx.doi.org/10.1109/ISBI.2016.7493437.
 
 Palmeri, M., Glass, T, Gupta, R., McCormick, M. M., Brown, A.,
 Polascik, T., Rosenzweig, S., Buck, A., and Nightingale, K.
-Cmparison Between 3D ARFI Imaging and mpMRI in Detecting
+Comparison Between 3D ARFI Imaging and mpMRI in Detecting
 Clinically-Significant Prostate Cancer Lesions.
 2016 IEEE International Ultrasonics Symposium (IUS).
 Tours, France. September, 2016.
