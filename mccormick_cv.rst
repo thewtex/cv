@@ -1,4 +1,4 @@
-Matthew M. McCormick
+Matthew M. McCormick, Ph.D.
 
 Contact Information
 ===================
@@ -57,12 +57,14 @@ Cotter High School, Winona, Minnesota USA
 Work Experience
 ===============
 
+Kitware, Inc
+
+*Technical Expert*       June 2011 - Present
+
+  Medical imaging software development with the Insight Toolkit (ITK).
+
 University of Wisconsin-Madison, USA
 ------------------------------------
-
-*R&D Engineer*       June 2011 - Present
-
-  Medical imaging software development with the InsightToolkit.
 
 *Research Assistant* June 2005 - June 2011
 
@@ -113,8 +115,20 @@ Minnesota Association for Human Genetics University of Minnesota, Minneapolis, M
 Publications and Manuscripts
 ============================
 
-Liu, X., Niethammer, M., Kwitt, R., McCormick M. and Aylward S., “Low-Rank to the
-Rescue: Atlas-based Analyses in the Presence of Pathologies,” in Proceedings of
+Zukić D., Vicory J., McCormick M., Wisse L., Gerig G., Yushkevich P., Aylward
+S. n-D Morphological Contour Interpolation. Insight Journal. 2016
+January-December. URL: http://hdl.handle.net/10380/3563.
+
+Zukić D., McCormick M., Gerig G., Yushkevich P. RLEImage: run-length encoded
+memory compression scheme for an itk::Image. Insight Journal. 2016
+January-December. URL: http://hdl.handle.net/10380/3562.
+
+McCormick M., Kang H.J., Barre S. Performance Benchmarking the Insight
+Toolkit. Insight Journal. 2016 January-December. URL:
+http://hdl.handle.net/10380/3557.
+
+Liu, X., Niethammer, M., Kwitt, R., McCormick M. and Aylward S., Low-Rank to the
+Rescue: Atlas-based Analyses in the Presence of Pathologies, in Proceedings of
 the International Conference on Medical Image Computing and Computer Assisted
 Intervention (MICCAI '14) 17 (3):97-104. 2014. PMID: 25320787.
 
@@ -181,6 +195,19 @@ Biol. 53 (22):6377-94. 2008. PMID: 18941278
 
 Conference Presentations
 ========================
+
+S. R. Aylward, S. R., McCormick, M. M., Kang H. J., Razzaque, S., R. Kwitt,
+R., and M. Niethammer. Ultrasound spectroscopy. 2016 IEEE International
+Symposium on Biomedical Imaging: From Nano to Macro, ISBI 2016 - Proceedings.
+Prague, Czech Republic. 1013-1016. 2016.
+http://dx.doi.org/10.1109/ISBI.2016.7493437.
+
+Palmeri, M., Glass, T, Gupta, R., McCormick, M. M., Brown, A.,
+Polascik, T., Rosenzweig, S., Buck, A., and Nightingale, K.
+Cmparison Between 3D ARFI Imaging and mpMRI in Detecting
+Clinically-Significant Prostate Cancer Lesions.
+2016 IEEE International Ultrasonics Symposium (IUS).
+Tours, France. September, 2016.
 
 McCormick, M and Varghese, T. Reduction of Reverberation Artifacts in Carotid
 Strain Images Using Bayesian Regularization. International Conference on the
