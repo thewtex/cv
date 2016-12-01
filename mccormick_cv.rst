@@ -115,6 +115,12 @@ Minnesota Association for Human Genetics University of Minnesota, Minneapolis, M
 Publications and Manuscripts
 ============================
 
+Palmeri M., Glass T., Gupta R., McCormick M., Brown A., Polascik T.,
+Rosenzweig S., Buck A., Nightingale K., "Comparison between 3D ARFI imaging
+and mpMRI in detecting clinically-significant prostate cancer lesions," 2016
+IEEE International Ultrasonics Symposium (IUS), Tours, 2016, pp. 1-4.  doi:
+10.1109/ULTSYM.2016.7728618
+
 Zukić D., Vicory J., McCormick M., Wisse L., Gerig G., Yushkevich P., Aylward
 S. n-D Morphological Contour Interpolation. Insight Journal. 2016
 January-December. URL: http://hdl.handle.net/10380/3563.
