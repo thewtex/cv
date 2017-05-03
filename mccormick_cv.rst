@@ -115,6 +115,10 @@ Minnesota Association for Human Genetics University of Minnesota, Minneapolis, M
 Publications and Manuscripts
 ============================
 
+McCormick M. N-Dimensional Computation of Strain Tensor Images in the
+Insight Toolkit. The Insight Journal. 2017 January-December. URL:
+http://hdl.handle.net/10380/3573
+
 Palmeri M., Glass T., Gupta R., McCormick M., Brown A., Polascik T.,
 Rosenzweig S., Buck A., Nightingale K., "Comparison between 3D ARFI imaging
 and mpMRI in detecting clinically-significant prostate cancer lesions," 2016
